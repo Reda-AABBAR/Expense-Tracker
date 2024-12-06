@@ -1,0 +1,140 @@
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\appsettings.Development.json
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\appsettings.json
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Expense Tracker Back-End.staticwebassets.endpoints.json
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Expense Tracker Back-End.exe
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Expense Tracker Back-End.deps.json
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Expense Tracker Back-End.runtimeconfig.json
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Expense Tracker Back-End.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Expense Tracker Back-End.pdb
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Humanizer.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Microsoft.OpenApi.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Mono.TextTemplating.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\System.CodeDom.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\System.Composition.Convention.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\System.Composition.Hosting.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\System.Composition.Runtime.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\System.Composition.TypedParts.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\System.Security.Permissions.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\System.Windows.Extensions.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\obj\Debug\net9.0\Expense Tracker Back-End.csproj.AssemblyReference.cache
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\obj\Debug\net9.0\Expense Tracker Back-End.GeneratedMSBuildEditorConfig.editorconfig
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\obj\Debug\net9.0\Expense Tracker Back-End.AssemblyInfoInputs.cache
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\obj\Debug\net9.0\Expense Tracker Back-End.AssemblyInfo.cs
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\obj\Debug\net9.0\Expense Tracker Back-End.csproj.CoreCompileInputs.cache
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\obj\Debug\net9.0\Expense Tracker Back-End.MvcApplicationPartsAssemblyInfo.cs
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\obj\Debug\net9.0\Expense Tracker Back-End.MvcApplicationPartsAssemblyInfo.cache
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\obj\Debug\net9.0\scopedcss\bundle\Expense Tracker Back-End.styles.css
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\obj\Debug\net9.0\staticwebassets.build.json
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\obj\Debug\net9.0\staticwebassets.development.json
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\obj\Debug\net9.0\staticwebassets\msbuild.Expense Tracker Back-End.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\obj\Debug\net9.0\staticwebassets\msbuild.Expense Tracker Back-End.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\obj\Debug\net9.0\staticwebassets\msbuild.build.Expense Tracker Back-End.props
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Expense Tracker Back-End.props
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Expense Tracker Back-End.props
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\obj\Debug\net9.0\staticwebassets.pack.json
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\obj\Debug\net9.0\Expense .7B479C6D.Up2Date
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\obj\Debug\net9.0\Expense Tracker Back-End.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\obj\Debug\net9.0\refint\Expense Tracker Back-End.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\obj\Debug\net9.0\Expense Tracker Back-End.pdb
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\obj\Debug\net9.0\Expense Tracker Back-End.genruntimeconfig.cache
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\obj\Debug\net9.0\ref\Expense Tracker Back-End.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Azure.Core.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Azure.Identity.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\System.Drawing.Common.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\System.Memory.Data.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\System.Runtime.Caching.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\BCrypt.Net-Next.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
