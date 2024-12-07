@@ -2,9 +2,9 @@
 {
     public class ExpenseRequest
     {
-        public decimal Amount { get; set; }
+        public decimal mount { get; set; }
         public DateTime Date { get; set; }
         public string Description { get; set; }
-        public int ExpenseTypeId { get; set; }
+        public ExpenseType type { get; set; }
     }
 }

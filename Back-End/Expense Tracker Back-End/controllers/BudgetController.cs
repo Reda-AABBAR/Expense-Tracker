@@ -100,5 +100,20 @@ namespace Expense_Tracker_Back_End.Controllers
 
             return Ok(budgets);
         }
+
+        [HttpDelete("{id}")]
+        public IActionResult DeleteBudget(int id)
+        {
+            var budget = _context.Budgets.FirstOrDefault(b => b.Id == id);
+            if (budget == null)
+            {
+                return NotFound(new { message = $"budget with ID {id} not found." });
+            }
+
+            _context.Budgets.Remove(budget);
+            _context.SaveChanges();
+
+            return Ok(new { message = $"Budget with ID {id} has been successfully deleted." });
+        }
     }
 }

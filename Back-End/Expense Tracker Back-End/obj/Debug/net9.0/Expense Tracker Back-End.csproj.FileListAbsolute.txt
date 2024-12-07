@@ -138,3 +138,4 @@ F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debu
 F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\BCrypt.Net-Next.dll
 F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Expense Tracker with Budget Alerts\Back-End\Expense Tracker Back-End\obj\Debug\net9.0\Expense Tracker Back-End.sourcelink.json

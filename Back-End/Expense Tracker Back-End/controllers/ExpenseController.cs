@@ -28,25 +28,25 @@ namespace Expense_Tracker_Back_End.Controllers
             
             var budget = _context.Budgets.Include(b => b.Expenses).FirstOrDefault(b => b.Id == budgetId);
             if (budget == null)
-                return NotFound($"Budget with ID {budgetId} not found.");
+                return NotFound(new { message = $"Budget with ID {budgetId} not found."});
 
             
             var totalExpenses = budget.Expenses.Sum(e => e.Amount);
 
             
-            if (totalExpenses + expenseRequest.Amount > budget.BudgetAmount)
+            if (totalExpenses + expenseRequest.mount > budget.BudgetAmount)
             {
-                return BadRequest("Expense exceeds the available budget.");
+                return BadRequest(new { message = "Expense exceeds the available budget."});
             }
 
             
             var expense = new Expense
             {
-                Amount = expenseRequest.Amount,
+                Amount = expenseRequest.mount,
                 Date = expenseRequest.Date,
                 Description = expenseRequest.Description,
                 BudgetId = budgetId,
-                ExpenseTypeId = expenseRequest.ExpenseTypeId
+                ExpenseTypeId = expenseRequest.type.Id
             };
 
             // Add the expense to the database
@@ -54,7 +54,7 @@ namespace Expense_Tracker_Back_End.Controllers
             _context.SaveChanges();
 
             // Check if the total expenses exceed 80% of the budget and create a notification
-            if (totalExpenses + expenseRequest.Amount >= 0.8m * budget.BudgetAmount)
+            if (totalExpenses + expenseRequest.mount >= 0.8m * budget.BudgetAmount)
             {
                 var notification = new Notification
                 {
@@ -65,7 +65,13 @@ namespace Expense_Tracker_Back_End.Controllers
                 _context.Notifications.Add(notification);
                 _context.SaveChanges();
             }
-            return CreatedAtAction(nameof(GetExpenseById), new { id = expense.Id }, expense);
+            var expenseType = _context.ExpenseTypes
+                .FirstOrDefault(e => e.Id == expenseRequest.type.Id);
+            if (expenseType != null)
+            {
+                expense.Type = expenseType;
+            }
+            return CreatedAtAction(nameof(GetExpenseById), new { id = expense.Id }, toExpenseRespnse(expense));
         }
 
         [HttpGet("{id}")]
@@ -79,7 +85,7 @@ namespace Expense_Tracker_Back_End.Controllers
             if (expense == null)
                 return NotFound($"Expense with ID {id} not found.");
 
-            return Ok(expense);
+            return Ok(toExpenseRespnse(expense));
         }
 
         [HttpPut("{id}")]
@@ -90,16 +96,16 @@ namespace Expense_Tracker_Back_End.Controllers
 
             var expense = _context.Expenses.Include(e => e.Budget).FirstOrDefault(e => e.Id == id);
             if (expense == null)
-                return NotFound($"Expense with ID {id} not found.");
+                return NotFound(new {message = $"Expense with ID {id} not found." });
 
             // Calculate the current total expenses before update
             var totalExpensesBefore = expense.Budget.Expenses.Sum(e => e.Amount);
 
             // Update the expense details
-            expense.Amount = expenseRequest.Amount;
+            expense.Amount = expenseRequest.mount;
             expense.Date = expenseRequest.Date;
             expense.Description = expenseRequest.Description;
-            expense.ExpenseTypeId = expenseRequest.ExpenseTypeId;
+            expense.ExpenseTypeId = expenseRequest.type.Id;
 
             // Save the changes
             _context.Expenses.Update(expense);
@@ -111,7 +117,7 @@ namespace Expense_Tracker_Back_End.Controllers
             // Check if the updated total expenses exceed the budget
             if (totalExpensesAfter > expense.Budget.BudgetAmount)
             {
-                return BadRequest("Updated expense exceeds the available budget.");
+                return BadRequest(new {message = "Updated expense exceeds the available budget." });
             }
 
             // Check if the updated total expenses reach 80% of the budget and create a notification
@@ -127,7 +133,58 @@ namespace Expense_Tracker_Back_End.Controllers
                 _context.SaveChanges();
             }
 
-            return Ok(expense);
+            return Ok(toExpenseRespnse(expense));
+        }
+
+        [HttpGet("budget/{budgetId}")]
+        public IActionResult GetExpensesByBudgetId(int budgetId)
+        {
+            // Check if the budget exists
+            var budget = _context.Budgets.Include(b => b.Expenses)
+                                         .ThenInclude(e => e.Type) // Include ExpenseType for each expense
+                                         .FirstOrDefault(b => b.Id == budgetId);
+
+            if (budget == null)
+                return NotFound(new {message = $"Budget with ID {budgetId} not found." });
+
+            var expenses = budget.Expenses.Select(expense => new ExpenseResponse
+            {
+                Id = expense.Id,
+                Description = expense.Description,
+                mount = expense.Amount,
+                Date = expense.Date,
+                Type = expense.Type == null ? null : new dtos.ExpenseType { Id = expense.Type.Id, Name = expense.Type.Name }
+            }).ToList();
+
+            return Ok(expenses);
+        }
+
+        [HttpDelete("{id}")]
+        public IActionResult DeleteExpense(int id)
+        {
+            var expense = _context.Expenses.FirstOrDefault(e => e.Id == id);
+            if (expense == null)
+            {
+                return NotFound(new { message = $"Expense with ID {id} not found." });
+            }
+
+            _context.Expenses.Remove(expense);
+            _context.SaveChanges();
+
+            return Ok(new { message = $"Expense with ID {id} has been successfully deleted." });
+        }
+
+
+        private ExpenseResponse toExpenseRespnse(Expense expense)
+        {
+            return new ExpenseResponse
+            {
+                Id = expense.Id,
+                Description = expense.Description,
+                mount = expense.Amount,
+                Date = expense.Date,
+                Type = expense.Type == null ? null : new dtos.ExpenseType { Id = expense.Type.Id, Name = expense.Type.Name }
+            };
         }
     }
 }
