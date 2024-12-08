@@ -4,4 +4,6 @@ up date the following for your data base location
 "ConnectionStrings": {
     "DefaultConnection": "Server=your-db-server\\SQLEXPRESS;Database=ExpenseTracker;Trusted_Connection=True;MultipleActiveResultSets=true;TrustServerCertificate=True"
   }
+
+  if some think not work correctly contact me : redaaabbar9@gmail.com
   
