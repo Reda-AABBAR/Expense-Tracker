@@ -308,6 +308,22 @@
   },
   {
     "ContainingType": "Expense_Tracker_Back_End.controllers.UserController",
+    "Method": "GetUserDashboardData",
+    "RelativePath": "api/User/dashboard/{email}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Expense_Tracker_Back_End.controllers.UserController",
     "Method": "DeleteUser",
     "RelativePath": "api/User/delete/{id}",
     "HttpMethod": "DELETE",
